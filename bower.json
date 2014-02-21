@@ -1,6 +1,6 @@
 {
   "name": "bootstrap-css",
-  "version": "3.1.0",
+  "version": "3.1.1",
   "keywords": [
         "twitter",
         "bootstrap",
@@ -27,5 +27,5 @@
         }
     ],
     "readme": "Bootstrap 3 CSS Library",
-    "_id": "bootstrap-css@3.1.0"
+    "_id": "bootstrap-css@3.1.1"
 }

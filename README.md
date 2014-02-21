@@ -1,7 +1,7 @@
 # Bootstrap
 
 
-This is a Bower component for [Bootstrap 3](http://getbootstrap.com/) CSS library (v3.0.0).
+This is a Bower component for [Bootstrap 3](http://getbootstrap.com/) CSS library (v3.1.1).
 
 ## Installation:
 
